@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.mycard{
+  display: flex;
+  flex-wrap: wrap;
+  margin:10px;
+  justify-content: space-around;
+}
